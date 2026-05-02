@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://btlyeoi42et4o"
+path="res://.godot/imported/FEIN X NOKIA (mp3cut.net).mp3-5ae28dc67944c65c9b82dcdfb239c679.mp3str"
+
+[deps]
+
+source_file="res://FEIN X NOKIA (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/FEIN X NOKIA (mp3cut.net).mp3-5ae28dc67944c65c9b82dcdfb239c679.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
