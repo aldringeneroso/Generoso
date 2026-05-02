@@ -24,6 +24,6 @@ The project serves as both a learning output and a playable prototype.
 ---
 
 ## 🕹️ Gameplay Overview
-![image](./image-preview.png) 
+![image](image-preview.png) 
 The player explores a simple game environment with responsive controls and animation-driven movement.
 
